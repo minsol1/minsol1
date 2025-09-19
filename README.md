@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 💻 SSAFY(Samsung Software Academy For Youth) 11th (2024.01 ~ 2024.12)<br>
 💻 대구 금융 빅데이터 분석 과정 (2023.05 ~ 2023.09)<br>
 🦁 멋쟁이사자처럼 9기, 10기 (2021.03 ~ 2022.12)<br>
-🎓 영남대학교 (2019.03 ~ 2023.08)<br>
 
 ## Certificates
 🖥 ADsP (2024.06.13)<br>
