@@ -58,7 +58,12 @@ Here are some ideas to get you started:
 </table>
 
 <br />
- <img  src="http://mazandi.herokuapp.com/api?handle=artkms4815&theme=warm"/>
+ ## solved.ac
+<p>
+  <a href="http://solved.ac/artkms4815">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=artkms4815" alt="Solved.ac Profile"/>
+  </a>
+</p>
 
  
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer&fontAlign=90&fontColor=fffafa&fontSize=20)
