@@ -58,7 +58,6 @@ Here are some ideas to get you started:
 </table>
 
 <br />
- ## solved.ac
 <p>
   <a href="http://solved.ac/artkms4815">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=artkms4815" alt="Solved.ac Profile"/>
